@@ -14,7 +14,7 @@ let totalNervosos40 = 0;
 let totalCalmos18 = 0;
 
 
-while (j < 3) {
+while (j < 150) {
   const idadeText = prompt('Digite a idade: ');
   const idade = Number(idadeText);
   const sexoText = prompt('Escolha o Sexo entre:\n\n1 - Homem\n2 - Mulher\n3 - Outros');
